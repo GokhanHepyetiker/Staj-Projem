@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/templates/zalta/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Project</title>
+		<description><![CDATA[]]></description>
+		<link>https://construction.jollyany.co/index.php/project/category/5-office</link>
+		<lastBuildDate>Tue, 11 May 2021 10:57:57 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://construction.jollyany.co/index.php/project/category/5-office?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Princess Street</title>
+			<link>https://construction.jollyany.co/index.php/project/princess-street/22</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/princess-street/22</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/princess-street/22"><img src="https://construction.jollyany.co/images/tz_portfolio_plus/grid_gallery/22/christopher-burns-360244.jpg" alt="Princess Street"/></a><p>Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Office</category>
+			<pubDate>Thu, 12 Oct 2017 11:03:04 +0000</pubDate>
+		</item>
+		<item>
+			<title>Lansdowne Avenue</title>
+			<link>https://construction.jollyany.co/index.php/project/lansdowne-avenue/16</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/lansdowne-avenue/16</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/lansdowne-avenue/16"><img src="https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/lansdowne-avenue-16_o.jpg" alt="Lansdowne Avenue"/></a><p>Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Office</category>
+			<pubDate>Thu, 12 Oct 2017 10:53:13 +0000</pubDate>
+		</item>
+		<item>
+			<title>G Farm House</title>
+			<link>https://construction.jollyany.co/index.php/project/g-farm-house/3</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/g-farm-house/3</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/g-farm-house/3"><img src="https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/g-farm-house-3_o.jpg" alt="G Farm House"/></a><p>Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Office</category>
+			<pubDate>Wed, 27 Sep 2017 08:10:07 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

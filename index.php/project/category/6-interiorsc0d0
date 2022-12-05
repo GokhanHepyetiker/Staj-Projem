@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/templates/zalta/css/template.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Project</title>
+		<description><![CDATA[]]></description>
+		<link>https://construction.jollyany.co/index.php/project/category/6-interiors</link>
+		<lastBuildDate>Tue, 11 May 2021 10:57:49 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://construction.jollyany.co/index.php/project/category/6-interiors?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Riddell Street</title>
+			<link>https://construction.jollyany.co/index.php/project/riddell-street/23</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/riddell-street/23</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/riddell-street/23"><img src="https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/riddell-street-23_o.jpg" alt="Riddell Street"/></a><p>Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Interiors</category>
+			<pubDate>Thu, 12 Oct 2017 11:04:01 +0000</pubDate>
+		</item>
+		<item>
+			<title>Northland Crescent</title>
+			<link>https://construction.jollyany.co/index.php/project/northland-crescent/20</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/northland-crescent/20</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/northland-crescent/20"><img src="https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/northland-crescent-20-v_o.jpg" alt="Northland Crescent"/></a><p>{vimeo}3847109|100%|auto{/vimeo}</p><p>Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Interiors</category>
+			<pubDate>Thu, 12 Oct 2017 11:00:47 +0000</pubDate>
+		</item>
+		<item>
+			<title>Manitoba Road</title>
+			<link>https://construction.jollyany.co/index.php/project/manitoba-road/17</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/manitoba-road/17</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/manitoba-road/17"><img src="https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/manitoba-road-17_o.jpg" alt="Manitoba Road"/></a><p>Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Interiors</category>
+			<pubDate>Thu, 12 Oct 2017 10:57:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>Walk in closet</title>
+			<link>https://construction.jollyany.co/index.php/project/walk-in-closet/1</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php/project/walk-in-closet/1</guid>
+			<description><![CDATA[<a href="https://construction.jollyany.co//index.php/project/walk-in-closet/1"><img src="https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/walk-in-closet-1_o.jpg" alt="Walk in closet"/></a><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></description>
+			<author>info@templaza.com (Super User)</author>
+			<category>Interiors</category>
+			<pubDate>Wed, 27 Sep 2017 07:56:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/addons/content/vote/css/vote.css" type="text/css"?>
+<?xml-stylesheet href="/components/com_tz_portfolio_plus/templates/zalta/css/template.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Project</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://construction.jollyany.co"/>
+	<id>https://construction.jollyany.co/index.php/project/users/super-user/233</id>
+	<updated>2021-05-11T11:00:03+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://construction.jollyany.co/index.php/project/users/super-user/233?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Riddell Street</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/riddell-street/23"/>
+		<published>2017-10-12T11:04:01+00:00</published>
+		<updated>2017-10-12T11:04:01+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/riddell-street/23</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/riddell-street/23&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/riddell-street-23_o.jpg&quot; alt=&quot;Riddell Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/riddell-street/23&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/riddell-street-23_o.jpg&quot; alt=&quot;Riddell Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Interiors" />
+	</entry>
+	<entry>
+		<title>Princess Street</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/princess-street/22"/>
+		<published>2017-10-12T11:03:04+00:00</published>
+		<updated>2017-10-12T11:03:04+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/princess-street/22</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/princess-street/22&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/images/tz_portfolio_plus/grid_gallery/22/christopher-burns-360244.jpg&quot; alt=&quot;Princess Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/princess-street/22&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/images/tz_portfolio_plus/grid_gallery/22/christopher-burns-360244.jpg&quot; alt=&quot;Princess Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Office" />
+	</entry>
+	<entry>
+		<title>Oxford Street</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/oxford-street/21"/>
+		<published>2017-10-12T11:01:42+00:00</published>
+		<updated>2017-10-12T11:01:42+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/oxford-street/21</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/oxford-street/21&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/images/tz_portfolio_plus/flipbook_gallery/21/construction-642631-1920.jpg&quot; alt=&quot;Oxford Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/oxford-street/21&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/images/tz_portfolio_plus/flipbook_gallery/21/construction-642631-1920.jpg&quot; alt=&quot;Oxford Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Building" />
+	</entry>
+	<entry>
+		<title>Northland Crescent</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/northland-crescent/20"/>
+		<published>2017-10-12T11:00:47+00:00</published>
+		<updated>2017-10-12T11:00:47+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/northland-crescent/20</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/northland-crescent/20&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/northland-crescent-20-v_o.jpg&quot; alt=&quot;Northland Crescent&quot;/&gt;&lt;/a&gt;&lt;p&gt;{vimeo}3847109|100%|auto{/vimeo}&lt;/p&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/northland-crescent/20&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/northland-crescent-20-v_o.jpg&quot; alt=&quot;Northland Crescent&quot;/&gt;&lt;/a&gt;&lt;p&gt;{vimeo}3847109|100%|auto{/vimeo}&lt;/p&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Interiors" />
+	</entry>
+	<entry>
+		<title>Belgrave Street</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/belgrave-street/19"/>
+		<published>2017-10-12T10:59:53+00:00</published>
+		<updated>2017-10-12T10:59:53+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/belgrave-street/19</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/belgrave-street/19&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/belgrave-street-19-a_o.jpg&quot; alt=&quot;Belgrave Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;{soundcloud}78461091|100%|auto{/soundcloud}&lt;/p&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/belgrave-street/19&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/belgrave-street-19-a_o.jpg&quot; alt=&quot;Belgrave Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;{soundcloud}78461091|100%|auto{/soundcloud}&lt;/p&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Architecture" />
+	</entry>
+	<entry>
+		<title>Springbank Avenue</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/springbank-avenue/18"/>
+		<published>2017-10-12T10:58:51+00:00</published>
+		<updated>2017-10-12T10:58:51+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/springbank-avenue/18</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/springbank-avenue/18&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/images/tz_portfolio_plus/image_gallery/18/za-hfhd-0004.jpg&quot; alt=&quot;Springbank Avenue&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/springbank-avenue/18&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/images/tz_portfolio_plus/image_gallery/18/za-hfhd-0004.jpg&quot; alt=&quot;Springbank Avenue&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Building" />
+	</entry>
+	<entry>
+		<title>Manitoba Road</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/manitoba-road/17"/>
+		<published>2017-10-12T10:57:43+00:00</published>
+		<updated>2017-10-12T10:57:43+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/manitoba-road/17</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/manitoba-road/17&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/manitoba-road-17_o.jpg&quot; alt=&quot;Manitoba Road&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/manitoba-road/17&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/manitoba-road-17_o.jpg&quot; alt=&quot;Manitoba Road&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Interiors" />
+	</entry>
+	<entry>
+		<title>Lansdowne Avenue</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/lansdowne-avenue/16"/>
+		<published>2017-10-12T10:53:13+00:00</published>
+		<updated>2017-10-12T10:53:13+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/lansdowne-avenue/16</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/lansdowne-avenue/16&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/lansdowne-avenue-16_o.jpg&quot; alt=&quot;Lansdowne Avenue&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/lansdowne-avenue/16&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/lansdowne-avenue-16_o.jpg&quot; alt=&quot;Lansdowne Avenue&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Office" />
+	</entry>
+	<entry>
+		<title>Dufferin Street</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/dufferin-street/15"/>
+		<published>2017-10-12T10:52:03+00:00</published>
+		<updated>2017-10-12T10:52:03+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/dufferin-street/15</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/dufferin-street/15&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/dufferin-street-15_o.jpg&quot; alt=&quot;Dufferin Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/dufferin-street/15&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/dufferin-street-15_o.jpg&quot; alt=&quot;Dufferin Street&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Architecture" />
+	</entry>
+	<entry>
+		<title>Blackfoot Place</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/blackfoot-place/14"/>
+		<published>2017-10-12T10:50:35+00:00</published>
+		<updated>2017-10-12T10:50:35+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/blackfoot-place/14</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/blackfoot-place/14&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/blackfoot-place-14_o.jpg&quot; alt=&quot;Blackfoot Place&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/blackfoot-place/14&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/blackfoot-place-14_o.jpg&quot; alt=&quot;Blackfoot Place&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Building" />
+	</entry>
+	<entry>
+		<title>Guest Room Ensuite</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/guest-room-ensuite/4"/>
+		<published>2017-09-27T08:12:33+00:00</published>
+		<updated>2017-09-27T08:12:33+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/guest-room-ensuite/4</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/guest-room-ensuite/4&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/guest-room-ensuite-4_o.jpg&quot; alt=&quot;Guest Room Ensuite&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/guest-room-ensuite/4&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/guest-room-ensuite-4_o.jpg&quot; alt=&quot;Guest Room Ensuite&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Building" />
+	</entry>
+	<entry>
+		<title>G Farm House</title>
+		<link rel="alternate" type="text/html" href="https://construction.jollyany.co/index.php/project/g-farm-house/3"/>
+		<published>2017-09-27T08:10:07+00:00</published>
+		<updated>2017-09-27T08:10:07+00:00</updated>
+		<id>https://construction.jollyany.co/index.php/project/g-farm-house/3</id>
+		<author>
+			<name>Super User</name>
+			<email>info@templaza.com</email>
+		</author>
+		<summary type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/g-farm-house/3&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/g-farm-house-3_o.jpg&quot; alt=&quot;G Farm House&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;a href=&quot;https://construction.jollyany.co//index.php/project/g-farm-house/3&quot;&gt;&lt;img src=&quot;https://construction.jollyany.co/media/tz_portfolio_plus/article/cache/g-farm-house-3_o.jpg&quot; alt=&quot;G Farm House&quot;/&gt;&lt;/a&gt;&lt;p&gt;Nulla sed dolor vestibulum, interdum augue a, finibus nisi. Duis imperdiet lorem et egestas pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut eu porttitor odio. Sed eleifend nisi in varius sodales. Nulla libero nisi, pellentesque vel nisi luctus, venenatis finibus lorem. Aliquam a diam ac justo porta mattis sed a diam.&lt;/p&gt;
+</content>
+		<category term="Office" />
+	</entry>
+</feed>

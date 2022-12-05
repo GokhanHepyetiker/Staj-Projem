@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/com_hikashop/css/hikashop.css?v=421" type="text/css"?>
+<?xml-stylesheet href="/media/com_hikashop/css/frontend_default.css?t=1566828336" type="text/css"?>
+<?xml-stylesheet href="/media/com_hikashop/css/font-awesome.css?v=5.2.0" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bosch</title>
+		<description><![CDATA[]]></description>
+		<link>https://construction.jollyany.co</link>
+		<lastBuildDate>Tue, 11 May 2021 11:00:13 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://construction.jollyany.co/index.php/hikashop-menu-for-brands-listing/category/17-bosch/type-rss?format=feed"/>
+		<language>en-gb</language>
+		<item>
+			<title>Saw</title>
+			<link>https://construction.jollyany.co/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=1&amp;name=saw&amp;Itemid=147&amp;category_pathway=17</link>
+			<guid isPermaLink="true">https://construction.jollyany.co/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=1&amp;name=saw&amp;Itemid=147&amp;category_pathway=17</guid>
+			<description><![CDATA[<table><tr><td><img src="https://construction.jollyany.co/images/com_hikashop/upload/thumbnails/100x100/circular-saw-350x400_1004488693.png"/></td><td><p>Mauris eget rutrum metus. Nam euismod bibendum ipsum in tempor. Integer felis odio, tempor porta turpis nec, auctor luctus dui. Pellentesque habitant morbi tristique senectus et netus et.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at ante. Mauris eleifend, quam a vulputate dictum, massa quam dapibus leo, eget vulputate orci purus ut lorem. In fringilla mi in ligula. Pellentesque aliquam quam vel dolor. Nunc adipiscing. Sed quam odio, tempus ac, aliquam molestie, varius ac, tellus. Vestibulum ut nulla aliquam risus rutrum interdum. Pellentesque lorem. Curabitur sit amet erat quis risus feugiat viverra. Pellentesque augue justo, sagittis et, lacinia at, venenatis non, arcu. Nunc nec libero. In cursus dictum risus. Etiam tristique nisl a.</p>Price : $15.00</td></tr></table>]]></description>
+			<category>17</category>
+			<pubDate>Fri, 29 Sep 2017 10:09:34 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
